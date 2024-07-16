@@ -22,11 +22,15 @@ Soy estudiante de Ingeniería Electrónica en la Universidad Tecnológica Nacion
 ### Educación
 **Universidad Tecnológica Nacional (UTN)**  
 *Ingeniería Electrónica*  
-2019 - Presente
+2010 - 2018 // 2024
 
 **Bootcamp Desarrollo Full Stack**  
 *Henry*  
 2024
+
+**Desarrollo Web**  
+*CoderHouse*  
+2022
 
 ---
 
