@@ -2,7 +2,7 @@
 
 # Soy Romi Gentile
 
-### Estudiante de Ingeniería Electrónica
+### FullStack Developer && Estudiante de Ingeniería Electrónica
 
 ---
 
