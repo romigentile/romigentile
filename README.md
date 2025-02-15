@@ -38,9 +38,9 @@ Soy estudiante de Ingeniería Electrónica en la Universidad Tecnológica Nacion
 
 **Tecnologías de Programación:**
 - C
-- HTML5, CSS
+- HTML5, CSS, Tailwind
 - JavaScript, TypeScript
-- NestJS, React
+- NestJS, NextJS, React, Astro
 - Express, Axios
 - Node.js
 
