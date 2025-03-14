@@ -2,7 +2,7 @@
 
 # Soy Romi Gentile
 
-### FullStack Developer && Estudiante de Ingeniería Electrónica
+### FullStack Developer && (75%) Ingeniera Electrónica
 
 ---
 
@@ -15,7 +15,7 @@
 ---
 
 ### Perfil Profesional
-Soy estudiante de Ingeniería Electrónica en la Universidad Tecnológica Nacional (UTN), cursando el quinto año de la carrera. Apasionada por la tecnología y la innovación, he complementado mi formación con una especialización en desarrollo Full Stack, enfocándome en Backend. Tengo experiencia en la realización de proyectos utilizando JavaScript, NestJS, TypeScript y PostgreSQL. Destaco por mis habilidades en comunicación, resolución de problemas y trabajo en equipo.
+ Apasionada por la tecnología y la innovación, he complementado mi formación en ingeniería con una especialización en desarrollo Full Stack, enfocándome en Backend. Tengo experiencia en la realización de proyectos utilizando JavaScript, NestJS, TypeScript y PostgreSQL. Destaco por mis habilidades en comunicación, resolución de problemas y trabajo en equipo.
 
 ---
 
