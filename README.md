@@ -22,7 +22,7 @@ Soy estudiante de Ingeniería Electrónica en la Universidad Tecnológica Nacion
 ### Educación
 **Universidad Tecnológica Nacional (UTN)**  
 *Ingeniería Electrónica*  
-2010 - 2018 // 2024
+2010 - 2018 // 2025 - Act
 
 **Bootcamp Desarrollo Full Stack**  
 *Henry*  
